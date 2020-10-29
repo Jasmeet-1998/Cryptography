@@ -4,6 +4,7 @@ ProjectName-uSpoofer
 
 
 #Features->
+--------------------------------------------
 uSpoofer On Target Machine Can ->
 
 -Capture System Info
@@ -20,6 +21,7 @@ uSpoofer On Target Machine Can ->
 
 
 #To Make It Work
+-----------------------------
 
 1.)U Need to Refactor the both DecryptFile and Generatekey In Cryptography Directory.
  Remember the Key Must be Same For Both Decryption and Encryption.
@@ -37,6 +39,7 @@ Execute the keylogger.py Script
 -----Thats It-------
 
 #Problems u may Stumble Upon->
+------------------------------
 
 -Email Sending Problem
 
@@ -53,6 +56,7 @@ AND GENERATE APP PASSWORD SO AS TO USE ALLOW THIS CODE TO SEND MAILS ON BEHALF O
 SET 16 DIGIT APP PASSWORD AND USE THAT PASSWORD IN THE KEYLOGGER.PY FILE.
 
 #Sources->
+-------------------
 1.)https://gist.github.com/tylermakin/d820f65eb3c9dd98d58721c7fb1939a8#:~:text=Multipart%20email%20strings%20are%20composed,for%20their%20email%20clients'%20capabilities.
 
 2.)https://www.geeksforgeeks.org/send-mail-gmail-account-using-python/
